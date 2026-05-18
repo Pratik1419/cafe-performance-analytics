@@ -2,7 +2,7 @@
 
 An end-to-end business intelligence project utilizing **SQL** and **Power BI** to analyze revenue, operational efficiency, and product sales performance for a multi-location cafe franchise.
 
-![Dashboard Screenshot](Coffe_Dashboard.png)
+![Dashboard Screenshot](Coffee_Dashboard.png)
 
 ## 📌 Project Overview
 This project transforms raw transactional data into an interactive executive dashboard. The primary goal is to empower regional managers and stakeholders with clear, actionable insights regarding sales trends, location profitability, product demand, and month-over-month growth patterns.
